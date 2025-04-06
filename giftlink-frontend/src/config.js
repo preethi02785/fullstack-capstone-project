@@ -3,4 +3,6 @@ const config = {
 };
 
 console.log(`backendUrl in config.js: ${config.backendUrl}`)
-export {config as urlConfig}
+export const urlConfig = {
+  backendUrl: "http://localhost:3060"
+};
