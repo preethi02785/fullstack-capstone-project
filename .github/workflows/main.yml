@@ -1,0 +1,21 @@
+What is the benefit of using custom error-handling middleware in Express?
+
+
+It centralizes error-handling logic in one place, making it easier to maintain and manage.
+
+
+
+It gives you fine-grained control over how to handle errors and respond to them.
+
+
+
+It allows you to provide user-friendly error messages and instructions, improving the overall user experience.
+
+
+
+It works well in various real-world scenarios.
+
+
+1 point
+2.
+Question 2
