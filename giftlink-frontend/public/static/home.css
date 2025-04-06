@@ -3,7 +3,7 @@ body {
     /* insert code here */
 }
 
-/* Task 2: Create a pseudo-element for the background and blur */
+/* Task 2: Create a pseudo-element or the background and blur */
 body::before {
     /* insert code here */
 }
